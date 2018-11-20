@@ -32,6 +32,10 @@ Advanced usage of native UIAlertController with TextField, TextView, DatePicker,
 <img src="Assets/gifs/alert-.gif" width="400" />
 </div>
 
+## CocoaPods Installation
+
+`pod 'RLBAlertsPickers', :git => 'https://github.com/loicgriffie/Alerts-Pickers.git', :branch => 'master'`
+
 ## Usage
 
 <div align = "center">
